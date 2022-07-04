@@ -1,4 +1,4 @@
- # how to install all requaments file 
+ # install all requaments pkg one commands
  # follow all commands
  * apt-get update 
  * apt-get upgrade
