@@ -1,4 +1,9 @@
-# Pkgs
-pkg install git  python python2 python3 nano curl tar zip unzip tor wget wcalc bmon golang openssl cmatrix openssh toilet sl vim zsh fortune zsh proot -y
-# all basic package 
-# requament packages
+ # how to install all requaments file 
+ # follow all commands
+ * apt-get update 
+ * apt-get upgrade
+ * pkg install git
+ * git clone https://github.com/Harsh0408/Pkgs
+ * cd Pkgs
+ * bash file.sh
+ # Thankyou for follow my command
