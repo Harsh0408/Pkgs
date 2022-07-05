@@ -4,7 +4,7 @@
  * apt-get upgrade
  * pkg install git
  * git clone https://github.com/Harsh0408/Pkgs
- * bash file.sh
+ * bash Pkgs/file.sh
  # Thankyou for follow my commands
 
 
