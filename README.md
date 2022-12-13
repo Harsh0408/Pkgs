@@ -1,4 +1,5 @@
- # install all requaments pkg one commands
+ # installation all besic pkg in one commands
+ # Requaments : 1GB plus storages
  # follow all commands
  * apt-get update 
  * apt-get upgrade
