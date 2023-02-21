@@ -10,7 +10,8 @@ pkg install game-repo
 pkg install science-repo
 pkg install root- repo
 pkg install x11-repo
-
+pkg install tur-repo
+pkg install zphisher
 
 
 figlet thanks you 
