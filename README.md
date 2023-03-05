@@ -1,5 +1,5 @@
  # installation all besic pkg in one commands
- # Requaments : 1GB plus storages
+ # Requaments : 2GB plus storages
  # follow all commands
  * apt-get update 
  * apt-get upgrade
