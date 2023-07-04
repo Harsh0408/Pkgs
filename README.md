@@ -4,7 +4,7 @@
  * apt-get update 
  * apt-get upgrade
  * pkg install git
- * git clone https://github.com/darkiller 409/Allbasic && cd Allbasic &&  bash file.sh
+ * git clone https://github.com/darkiller409/Allbasic && cd Allbasic &&  bash file.sh
  # Thankyou for follow my commands
 
 
