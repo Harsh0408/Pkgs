@@ -14,9 +14,5 @@ pkg install tur-repo
 pkg install zphisher
 
 cd 
- 
-git clone https://github.com/xHak9x/SocialPhish.git
-cd SocialPhish
-chmod +x socialphish.sh
 
 figlet thanks you 
