@@ -8,6 +8,7 @@
  * cd Allbasic 
  * bash install.sh
  * select colour   0
+ * 
  * select font    14
  * open new season
  * cd Allbasic
