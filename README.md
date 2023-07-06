@@ -56,3 +56,4 @@ For better text input experience, swipe left on the `VolUp+Q` key bar.
 Tango color scheme + agnoster oh-my-zsh theme + Ubuntu font:
 
 ![](./termux-ohmyzsh.png)
+Screenshot_20230706_144535_Termux.jpg
