@@ -4,7 +4,14 @@
  * apt-get update 
  * apt-get upgrade
  * pkg install git
- * git clone https://github.com/darkiller409/Allbasic && cd Allbasic &&  bash file.sh
+ * git clone https://github.com/darkiller409/Allbasic 
+ * cd Allbasic 
+ * bash install.sh
+ * select colour   0
+ * select font    14
+ * open new season
+ * cd Allbasic
+ * bash file.sh
  # Thankyou for follow my commands
 
 
