@@ -12,6 +12,7 @@
  * open new season
  * cd Allbasic
  * bash file.sh
+
  *WELCOME MASSAGE 
  *  /data/data/com.termux/files/usr/etc/nano zshrc
  *  neofetch
