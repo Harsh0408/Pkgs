@@ -7,13 +7,21 @@
  * git clone https://github.com/darkiller409/Allbasic 
  * cd Allbasic 
  * bash install.sh
- * select colour   0
- * 
+ * select colour   0 
  * select font    14
  * open new season
  * cd Allbasic
  * bash file.sh
- # Thankyou for follow my commands
+ *  /data/data/com.termux/files/usr/etc/nano zshrc
+ *  neofetch
+
+figlet -f standard   WELCOME
+
+figlet -f standard DARKILLER
+
+apt list --upgradable
+ 
+  # Thankyou for follow my commands
 
 
 
