@@ -13,6 +13,7 @@ pkg install x11-repo
 pkg install tur-repo
 pkg install zphisher
 pkg install nodejs-ltsnpm install-g truecallerjs
+apt install php
 
 cd 
 
